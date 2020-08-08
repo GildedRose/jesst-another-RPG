@@ -2,20 +2,20 @@
   "name": "jest-another-rpg",
   "version": "1.0.0",
   "description": "command line RPG",
-  "main": "./lib/random.js",
+  "main": "./lib/Potion.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GildedRose/jesst-another-RPG.git"
+    "url": "git+https://github.com/GildedRose/jest-another-RPG.git"
   },
   "author": "GildedRose",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GildedRose/jesst-another-RPG/issues"
+    "url": "https://github.com/GildedRose/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/GildedRose/jesst-another-RPG#readme",
+  "homepage": "https://github.com/GildedRose/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^26.2.2"
   }
